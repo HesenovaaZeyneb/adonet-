@@ -1,0 +1,5 @@
+C:\Users\UserHome\source\repos\Adonet\obj\Debug\net8.0\Adonet.csproj.AssemblyReference.cache
+C:\Users\UserHome\source\repos\Adonet\obj\Debug\net8.0\Adonet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserHome\source\repos\Adonet\obj\Debug\net8.0\Adonet.AssemblyInfoInputs.cache
+C:\Users\UserHome\source\repos\Adonet\obj\Debug\net8.0\Adonet.AssemblyInfo.cs
+C:\Users\UserHome\source\repos\Adonet\obj\Debug\net8.0\Adonet.csproj.CoreCompileInputs.cache

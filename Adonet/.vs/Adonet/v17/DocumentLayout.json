@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserHome\\source\\repos\\Adonet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|c:\\users\\userhome\\source\\repos\\adonet\\services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|solutionrelative:services\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|c:\\users\\userhome\\source\\repos\\adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|c:\\users\\userhome\\source\\repos\\adonet\\abstractions\\iemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|solutionrelative:abstractions\\iemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|c:\\users\\userhome\\source\\repos\\adonet\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|c:\\users\\userhome\\source\\repos\\adonet\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|c:\\users\\userhome\\source\\repos\\adonet\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122265E0-5C69-4CF5-A303-5A11CA1F4735}|Adonet.csproj|solutionrelative:models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employeesservice.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Services\\Employeesservice.cs",
+              "RelativeDocumentMoniker": "Services\\Employeesservice.cs",
+              "ToolTip": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Services\\Employeesservice.cs",
+              "RelativeToolTip": "Services\\Employeesservice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:26:38.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Abstractions\\IEmployees.cs",
+              "RelativeDocumentMoniker": "Abstractions\\IEmployees.cs",
+              "ToolTip": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Abstractions\\IEmployees.cs",
+              "RelativeToolTip": "Abstractions\\IEmployees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:26:20.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\source\\repos\\Adonet\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\UserHome\\source\\repos\\Adonet\\GlobalUsing.cs",
+              "RelativeToolTip": "GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:37:31.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAtwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:06:53.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Models\\Employees.cs",
+              "RelativeToolTip": "Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:03:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UserHome\\source\\repos\\Adonet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:02:52.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
